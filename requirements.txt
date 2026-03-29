@@ -1,4 +1,4 @@
 flask==3.0.0
 gunicorn==21.2.0
-tflite-runtime==2.14.0
+tflite-runtime
 numpy<2.0.0
